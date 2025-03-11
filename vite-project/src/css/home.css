@@ -299,36 +299,6 @@ nav {
   border-radius: 5px;
 }
 
-.banner {
-  background-image: linear-gradient(
-      to right,
-      rgba(0, 0, 0, 0.6),
-      rgba(0, 0, 0, 0.6)
-    ),
-    url("assets/banner.jpg");
-  background-position: center center;
-  background-size: cover;
-  background-repeat: no-repeat;
-}
-
-.banner-content {
-  max-width: 800px;
-}
-
-.banner-content .section-header{
-  margin-bottom: 1rem;
-}
-
-.banner-content .paragraph {
-  max-width: 600px;
-  margin-bottom: 2rem;
-}
-
-.banner-buttons {
-  display: flex;
-  align-items: center;
-  gap: 2rem;
-}
 
 .Info {
   background-color: var(--secondary-color);
