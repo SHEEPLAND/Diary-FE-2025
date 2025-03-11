@@ -11,7 +11,7 @@
   --secondary-color: #fbfbf6;
   --secondary-color-light: rgb(43, 75, 108);
   --text-light: black;
-  --white:rgb(43, 75, 108);
+  --white:rgb(43, 69, 94);
   --black: #000000;
   --max-width: 1200px;
 
@@ -110,7 +110,7 @@ body {
 
 header {
   background-image: 
-    url("../img/film_04.jpg");
+    url("../img/home.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -330,50 +330,49 @@ nav {
   gap: 2rem;
 }
 
-.blog {
+.Info {
   background-color: var(--secondary-color);
 }
 
-.blog-grid {
+.Info-grid {
   margin-top: 4rem;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 2rem;
 }
 
-.blog-card img {
+.Info-card img {
   margin-bottom: 1rem;
   border-radius: 5px;
 }
 
-.blog-card > div {
+.Info-card > div {
   margin-bottom: 1rem;
   display: flex;
   align-items: center;
   gap: 1rem;
 }
 
-.blog-card div span {
+.Info-card div span {
   font-size: 0.9rem;
   color: var(--text-light);
 }
 
-.blog-card div span i {
+.Info-card div span i {
   margin-right: 5px;
   font-size: 1rem;
   color: var(--primary-color);
 }
 
-.blog-card h4 {
+.Info-card h4 {
   margin-bottom: 0.5rem;
   font-size: 1.2rem;
   font-weight: 600;
 }
 
-.blog-card p {
+.Info-card p {
   color: var(--text-light);
 }
-
 
 
 
@@ -398,7 +397,7 @@ nav {
     gap: 1rem;
   }
 
-  .blog-grid {
+  .Info-grid {
     grid-template-columns: repeat(2, 1fr);
     gap: 2rem 1rem;
   }
@@ -452,7 +451,7 @@ nav {
     grid-template-columns: repeat(1, 1fr);
   }
 
-  .blog-grid {
+  .Info-grid {
     grid-template-columns: repeat(1, 1fr);
   }
 
