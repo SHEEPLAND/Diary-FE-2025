@@ -9,14 +9,28 @@ Sovellus on toteutettu **englanniksi**, ja se koostuu **front-endista (käyttöl
     ![Kuvateksti](./img/Näyttökuva%202025-3-11%20kello%201.38.23.png)
     ![Kuvateksti](./img/Näyttökuva%202025-3-11%20kello%201.38.43.png)
 
+
 2. **Kirjautuminen** 
     ![Kuvateksti](./img/Näyttökuva%202025-3-11%20kello%201.35.24.png)
 
 
-3. **Päiväkirjanäkymä**
+3. **Rekisteröinti**
+    ![Kuvateksti](./img/Näyttökuva%202025-3-12%20kello%2014.31.02.png)
+
+
+4. **Päiväkirjanäkymä**
 
     ![Kuvateksti](./img/Näyttökuva%202025-3-11%20kello%201.37.49.png)
 
+    ![Kuvateksti](./img/Näyttökuva%202025-3-12%20kello%2014.26.11.png)
+
+
+5. **Lisää vinkkejä- sivu**
+
+    ![Kuvateksti](./img/Näyttökuva%202025-3-12%20kello%2014.27.49.png)
+
+    ![Kuvateksti](./img/Näyttökuva%202025-3-12%20kello%2014.29.27.png)
+    ![Kuvateksti](./img/Näyttökuva%202025-3-12%20kello%2014.29.08.png)
 
 
 ## Repository-linkit
